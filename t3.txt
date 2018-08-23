@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mater branche
+=======
+master branche
+>>>>>>> t2
